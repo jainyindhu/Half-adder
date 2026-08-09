@@ -1,2 +1,2 @@
-# Half-assed
+# Half-adder
 My second Verilog project 
